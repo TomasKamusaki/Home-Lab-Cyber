@@ -26,3 +26,5 @@ reinstalled Splunk on new Ubuntu after that checked everything. Firstly configur
 There is My VirtualBox.Also was created a shared folder on my host laptop between Windows and VM Ubuntu to share fast some codes, pictures etc.
 
 <img width="1920" height="1080" alt="Captura de pantalla 2025-09-27 103627" src="https://github.com/user-attachments/assets/811a99da-dee4-4e75-b8a2-81df3f8cc08a" />
+
+23.09.2025
